@@ -1,0 +1,1521 @@
+<!doctype html>
+<html lang="zh-TW">
+<head>
+  <meta charset="utf-8">
+  <title>迪士尼與華納推出 Disney+、Hulu、Max 三合一方案</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1">
+  
+  <meta name="keywords" content="">
+  <meta name="csrf-token" content="ggpO32ES2AkDq3I6tz38ENGUq2sMgsSVDJxcQ6mJ">
+  <meta name="description" content="今日迪士尼與華納兄弟聯合宣佈，Disney+、Hulu、Max（前身HBOMax）將進行合作，並於今年夏季提供整合方案。">
+  <meta property="og:title" content="迪士尼與華納推出 Disney+、Hulu、Max 三合一方案" />
+  <meta property="og:description" content="今日迪士尼與華納兄弟聯合宣佈，Disney+、Hulu、Max（前身HBOMax）將進行合作，並於今年夏季提供整合方案。" />
+  <meta property="og:image" content="https://img.eprice.com.tw/img/news/39760/fb.jpg" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://m.eprice.com.tw/mobile/talk/4504/5809415/1" />
+  <meta property="og:site_name" content="ePrice 行動版" />
+  <meta property="fb:app_id" content="1205386399519232" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+  <link rel="canonical" href="https://m.eprice.com.tw/mobile/talk/4504/5809415/1" />
+  <!-- link rel="manifest" href="/manifest.json" / -->
+  <link rel="apple-touch-icon" sizes="192x192" href="https://img.eprice.com.tw/img/news/39760/fb.jpg" />
+  <link rel="apple-touch-startup-image" href="https://img.eprice.com.tw/img/news/39760/fb.jpg" />
+  <link rel="alternate" type="application/rss+xml" title="ePrice 行動版" href="https://m.eprice.com.tw/rss/rss.xml" />
+   <link href="/css/fontawesome-5.0.9-all.min.css" rel="stylesheet" />
+<link href="/css/bootstrap-3.3.7.min.css" rel="stylesheet" />
+<link href="/css/web/common.css?20230310" rel="stylesheet" />
+
+
+
+<style>
+ .shortcuts {
+   background-color: #fcfcfc;
+   display: flex;
+   flex-flow: row nowrap;
+   gap: 0.5rem;
+   justify-content: space-evenly;
+   margin: 0 -15px;
+ }
+ .shortcuts__item {
+   padding: .25rem 0;
+ }
+ .shortcuts__item,
+ .shortcuts__item:hover,
+ .shortcuts__item:focus,
+ .shortcuts__item:hover:focus {
+   color: #333;
+   font-size: 1.15rem;
+ }
+ .ad-320x100 {
+   min-height: 120px;
+ }
+ .ad-728x90 {
+   min-height: 90px;
+ }
+ .ad-970x250 {
+   min-height: 250px;
+ }
+ footer .footer-adv {
+   max-height: 60px;
+   min-height: 60px;
+ }
+ @media (min-width: 768px) {
+   .shortcuts {
+     background-color: #f60;
+     gap: .25rem;
+   }
+   .shortcuts__item {
+     color: #fff;
+     padding: .5rem 1.5rem;
+   }
+   .shortcuts__item:hover,
+   .shortcuts__item:focus,
+   .shortcuts__item:hover:focus {
+     background-color: #ff8433;
+     color: #fff;
+     text-decoration: none;
+   }
+ }
+ @media (max-width: 374px) {
+   header .site-logo {
+     width: 140px;
+   }
+   header .site-logo .logo {
+     background-position: -15px -70px;
+     width: 140px;
+   }
+   header.navbar-fixed-top .icon-button-wrapper {
+     margin-right: -30px !important;
+   }
+ }
+</style> 
+  <link href="/css/web/articles/menu.css" rel="stylesheet" />
+  <link rel="stylesheet" href="/css/blueimp-gallery.min.css" />
+<link rel="stylesheet" href="/css/twentytwenty.min.css"  />
+<link rel="stylesheet" href="/css/web/articles/detail.css?20231115" />
+<link rel="stylesheet" href="/css/web/articles/comment.css" />
+<style>
+ img {
+   max-width: 100%;
+ }
+ #m300-370, {
+   min-width: 300px;
+   min-height: 370px;
+ }
+ #m300-370 > iframe {
+   width: 300px;
+   height: 370px;
+ }
+ .oneline {
+   margin: .25rem 0;
+   padding: 0 .25rem;
+   white-space: nowrap;
+   overflow-x: hidden;
+   overflow-y: clip;
+   text-overflow: ellipsis;
+ }
+ .maxlines {
+   margin: .25rem 0;
+   padding: 0 .25rem;
+   display: -webkit-box;
+   -webkit-box-orient: vertical;
+   -webkit-line-clamp: 2;
+   overflow-x: hidden;
+   overflow-y: clip;
+   text-overflow: ellipsis;
+ }
+ .maxlines--3 {
+   -webkit-line-clamp: 3;
+ }
+ .title {
+   font-size: 1.1rem;
+   margin: 0;
+ }
+ .price::before {
+   content: "$";
+ }
+ .price {
+   min-width: 65px;
+   text-align: right;
+ }
+ .price,
+ .price:hover,
+ .price:focus,
+ .price:visited,
+ .price:link {
+   color: #d92672 !important;
+ }
+ .products {
+   display: grid;
+   grid-template-columns: repeat(auto-fill, minmax(30vw, 1fr));
+   border: 1px solid lightgray;
+ }
+ #lib-brand-products-1, #lib-brand-products-2 {
+   margin: 15px -15px;
+ }
+ .product {
+   display: flex;
+   flex-flow: column nowrap;
+   gap: .25rem;
+   background-color: white;
+ }
+ .product__title {
+   width: 100%;
+   height: 40px;
+   text-align: center;
+   background-color: lightgray;
+ }
+ .product__title > h3 {
+   font-size: 1rem;
+ }
+ .product__image {
+   display: block;
+   max-width: 100%;
+   min-height: 30vw;
+   background-size: contain;
+   background-position: 50% 50%;
+   background-repeat: no-repeat;
+ }
+ .product__price {
+   display: flex;
+   justify-content: center;
+ }
+ .outsite {
+   margin: 2rem 0;
+   padding: .25rem;
+   display: grid;
+   grid-template-columns: 100px 1fr;
+   grid-template-rows: 2rem 1fr;
+   grid-template-areas:
+     "outsite__profile outsite__title"
+     "outsite__profile outsite__summary";
+   gap: .5rem 0;
+   border: 3px solid lightgray;
+ }
+ .outsite__title {
+   margin: 0;
+   grid-area: outsite__title;
+ }
+ .outsite__profile {
+   grid-area: outsite__profile;
+ }
+ .outsite__summary {
+   grid-area: outsite__summary;
+   font-size: 1.1rem;
+ }
+ .sponsor {
+   margin: 1rem 0;
+   max-width: 100%;
+   text-align: center;
+ }
+ .sponsor--xs {}
+ .sponsor__header,
+ .sponsor__footer {
+   font-size: 9pt;
+   text-align: center;
+   width: 100%;
+   line-height: normal;
+   background-color: #000;
+   color: #fff;
+   letter-spacing: 3px;
+   margin: .25rem 0;
+ }
+ .grid-list {
+   padding: 0;
+   display: grid;
+   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+   gap: .5rem;
+ }
+ .grid-list__item {
+   padding: 0;
+ }
+ .article-item {
+   display: flex;
+   flex-flow: column nowrap;
+   min-width: 250px;
+   background-color: white;
+ }
+ .article-item__meta {
+   padding: .25rem .5rem;
+   display: grid;
+   grid-template-columns: 50px 1fr;
+   grid-template-areas:
+     "meta-profile meta-author"
+     "meta-profile meta-time";
+   gap: .125rem 1rem;
+ }
+ .article-item__profile {
+   grid-area: meta-profile;
+   aspect-ratio: 1 / 1;
+   max-width: 50px;
+   max-height: 50px;
+   border: 1px solid lightgray;
+   border-radius: 50%;
+   overflow: hidden;
+ }
+ .article-item__author {
+   grid-area: meta-author;
+ }
+ .article-item__time {
+   grid-area: meta-time;
+ }
+ .article-item__forum {
+   grid-area: meta-forum;
+ }
+ .article-item__title {
+   display: block;
+   padding: .75rem .5rem;
+   font-size: 1.1rem;
+   text-decoration: none;
+ }
+ .article-item__title,
+ .article-item__title:hover,
+ .article-item__title:visited {
+   color: white;
+   background-color: #3c3c3c;
+ }
+ .article-item__cover {
+   display: block;
+   aspect-ratio: 100 / 52.35;
+   background-color: lightgray;
+ }
+ .article-item__summary {
+   margin: .5rem 0;
+   padding: 0 .5rem;
+ }
+ .article-item__summary, 
+ .article-item__summary:hover,
+ .article-item__summary:visited {
+   color: black;
+   text-decoration: none;
+ }
+ .vote-content {
+   padding: .5rem;
+   border: 2px solid #3c3c3c;
+ }
+ .vote-duration {
+   display: flex;
+   justify-content: right;
+ }
+ .vote-duration-time {
+   font-size: .9rem;
+ }
+ .vote-option {
+   display: grid;
+   grid-template-columns: 1rem minmax(1rem, 33%) minmax(0, 1fr);
+   gap: .25rem .25rem;
+   align-items: center;
+ }
+ .vote-option input {
+   margin: 0;
+ }
+ .vote-input {
+   margin: 0;
+   flex-basis: 1rem;
+ }
+ .vote-label {
+   margin: 0;
+ }
+ .vote-scorebar {
+   min-width: 50%;
+   height: 20px;
+   flex-grow: 1;
+   display: flex;
+   align-items: center;
+   gap: .5rem;
+ }
+ .vote-bar {
+   height: 20px;
+   background-color: #f60;
+   line-height: 20px;
+   font-size: .9rem;
+   color: white;
+ }
+ .vote-count {
+   padding: 0 .5rem;
+ }
+ .vote-perc {
+   font-size: .8rem;
+   white-space: nowrap;
+ }
+ @media (min-width: 768px) {
+   .sponsor--xs {
+     display: none;
+   }
+   .products {
+     grid-template-columns: repeat(auto-fill, minmax(30%, 1fr));
+   }
+   .product__image {
+     min-height: 150px;
+     height: 150px;
+   }
+   .grid-list {
+     margin-left: 10px;
+   }
+ }
+</style>
+  <!-- 2022-07-22 css stack -->
+    <script defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script defer src="https://connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v4.0&autoLogAppEvents=1"></script>
+<script defer src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script defer src="https://cdn.adsfactor.net/async/sn_adx_init-min.js"></script>
+<script defer src="/js/web/firebase.trigger.js"></script>
+
+<script src="/js/jquery-2.2.4.min.js"></script>
+<script src="/js/bootstrap-3.3.7.min.js"></script>
+<script defer src="/js/jquery.dialog.js"></script>
+<script defer src="/js/jquery.api.js"></script>
+
+<script defer src="/js/web/common.trigger.js?20231018"></script>
+<!-- script src="/js/web/account/notifications.trigger.js"></script -->
+<!-- script src="/js/jqcloud-1.0.4.min.js"></script -->
+<script type="application/ld+json">
+    {"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"\u9996\u9801","item":"https:\/\/m.eprice.com.tw"},{"@type":"ListItem","position":2,"name":"\u8fea\u58eb\u5c3c\u8207\u83ef\u7d0d\u63a8\u51fa Disney+\u3001Hulu\u3001Max \u4e09\u5408\u4e00\u65b9\u6848","item":{"@type":"Thing","@id":"https:\/\/m.eprice.com.tw\/mobile\/talk\/4504\/5809415\/1"}}]}
+</script>
+<script type="application/ld+json">
+    {"@context":"http:\/\/schema.org","@type":"NewsArticle","url":"https:\/\/m.eprice.com.tw\/mobile\/talk\/4504\/5809415\/1","publisher":{"@type":"Organization","name":"ePrice \u884c\u52d5\u7248","logo":"https:\/\/img.eprice.com.tw\/img\/tw\/header.ob.gif"},"headline":"\u8fea\u58eb\u5c3c\u8207\u83ef\u7d0d\u63a8\u51fa Disney+\u3001Hulu\u3001Max \u4e09\u5408\u4e00\u65b9\u6848","backstory":"\u4eca\u65e5\u8fea\u58eb\u5c3c\u8207\u83ef\u7d0d\u5144\u5f1f\u806f\u5408\u5ba3\u4f48\uff0cDisney+\u3001Hulu\u3001Max\uff08\u524d\u8eabHBOMax\uff09\u5c07\u9032\u884c\u5408\u4f5c\uff0c\u4e26\u65bc\u4eca\u5e74\u590f\u5b63\u63d0\u4f9b\u6574\u5408\u65b9\u6848\u3002","mainEntityOfPage":"https:\/\/m.eprice.com.tw\/mobile\/talk\/4504\/5809415\/1","articleBody":"\u65e9\u524d\u5f71\u8996\u4e32\u6d41\u5e73\u53f0 Disney+ \u8207 Hulu \u5408\u4f75\uff0c\u65e5\u524d\u516c\u4f48\u5408\u4f75\u5f8c\u7684\u7b2c\u4e8c\u8ca1\u5b63\u5229\u6f64\uff0c\u5275\u4e0b\u6b77\u53f2\u6027\u7d00\u9304\u3002\u4eca\u65e5\u8fea\u58eb\u5c3c\u8207\u83ef\u7d0d\u5144\u5f1f\u806f\u5408\u5ba3\u4f48\uff0cDisney+\u3001Hulu\u3001Max\uff08\u524d\u8eab HBO Max\uff09\u5c07\u9032\u884c\u5408\u4f5c\uff0c\u4e26\u65bc\u4eca\u5e74\u590f\u5b63\u63d0\u4f9b\u6574\u5408\u65b9\u6848\u3002<br \/>\r\n<br \/>\r\n<img alt=\"20240508-logos-split.jpg\" border=\"0\" src=\"https:\/\/timgm.eprice.com.tw\/tw\/mobile\/img\/2024-05\/09\/5809415\/eprice_1_20b98e3af996c9caffba941ed557d85a.jpg\" title=\"20240508-logos-split.jpg\" \/><br \/>\r\n<br \/>\r\n&nbsp;\r\n<h2>\u4e09\u5408\u4e00\u65b9\u6848\u5438\u5f15\u529b\u5927\u589e<\/h2>\r\n\u5728\u76ee\u524d\u4e32\u6d41\u5e73\u53f0\u670d\u52d9\u773e\u591a\uff0c\u6536\u8cbb\u6108\u4f86\u6108\u8cb4\uff0c\u8fea\u58eb\u5c3c\u8207\u83ef\u7d0d\u806f\u7d66\u63a8\u51fa\u7684\u9019\u500b\u4e09\u5408\u4e00\u65b9\u6848\uff0c\u8b93\u6d88\u8cbb\u8005\u6709\u591a\u4e00\u500b\u9078\u64c7\uff0c\u5982\u679c\u7528\u6236\u672c\u8eab\u5df2\u95b1\u8a02\u591a\u500b\u5f71\u8996\u4e32\u6d41\u5e73\u53f0\u670d\u52d9\uff0c\u6216\u8a31\u53ef\u4ee5\u7701\u4e00\u9ede\u9322\uff0c\u5982\u679c\u53ea\u9078\u64c7\u4e00\u500b\u5e73\u53f0\u4f86\u8a02\u95b1\u7684\u8a71\uff0c\u9019\u7a2e\u4e09\u5408\u4e00\u65b9\u6848\u6709\u53ef\u80fd\u6bd4 Netflix \u4f86\u5f97\u5438\u5f15\u3002<br \/>\r\n<br \/>\r\n\u83ef\u7d0d\u5144\u5f1f\u5168\u7403\u4e32\u6d41\u8207\u904a\u6232\u696d\u52d9\u884c\u653f\u7e3d\u88c1 JB Perrette \u5728\u65b0\u805e\u7a3f\u4e2d\u8868\u793a\uff1a\u65b0\u7522\u54c1\u5c07\u70ba\u6d88\u8cbb\u8005\u63d0\u4f9b\u6700\u8c50\u5bcc\u7684\u5a1b\u6a02\u5167\u5bb9\uff0c\u548c\u4e32\u6d41\u5e73\u53f0\u4e2d\u6700\u5927\u5438\u5f15\u529b\uff0c\u4e26\u8a8d\u70ba\u53ef\u4ee5\u589e\u52a0\u8a02\u95b1\u6578\u91cf\u548c\u7559\u8457\u7528\u6236\u7fa4\u3002\u4ed6\u66f4\u6307\u51fa\uff0c\u65b0\u670d\u52d9\u6703\u884c\u696d\u7684\u672a\u4f86\u6307\u51fa\u65b0\u8def\u5411\u3002\u8fea\u58eb\u5c3c\u5a1b\u6a02\u76f4\u63a5\u9762\u5411\u6d88\u8cbb\u8005\u8207\u5a1b\u6a02\u696d\u52d9\u7e3d\u88c1 Joe Earley \u5247\u8868\u793a\uff0c\u7e7c Disney+ \u5408\u4f75 Hulu \u5927\u7372\u6210\u529f\uff0c\u9019\u4e00\u6ce2 Max \u7684\u65b0\u7d44\u5408\u5c07\u70ba\u8a02\u95b1\u8005\u63d0\u4f9b\u66f4\u591a\u9078\u64c7\uff0c\u8a02\u95b1\u7528\u6236\u53ef\u4ee5\u4e00\u6b21\u64c1\u6709\u4e09\u5927\u8c50\u5bcc\u7247\u6e90\u3002<br \/>\r\n<br \/>\r\n&nbsp;\r\n<h2>\u53ef\u9078\u64c7\u6709\u5ee3\u544a\u548c\u7121\u5ee3\u544a\u7248\u672c<\/h2>\r\n\u64da\u6089\u65b0\u65b9\u6848\u65bc\u4eca\u5e74\u590f\u5929\u5728\u7f8e\u570b\u63a8\u51fa\uff0c\u7528\u6236\u53ef\u4ee5\u5728\u4e09\u500b\u4e32\u6d41\u5e73\u53f0\u7684\u4efb\u4f55\u4e00\u500b\u7db2\u7ad9\u4e0a\u8cfc\u8cb7\uff0c\u53ef\u9078\u64c7\u6709\u5ee3\u544a\u548c\u7121\u5ee3\u544a\u7248\u672c\u3002\u6709\u95dc\u4e09\u5408\u4e00\u65b9\u6848\u7684\u6536\u8cbb\u7b49\u7d30\u7bc0\uff0c\u5247\u6709\u5f85\u516c\u4f48\u3002&nbsp;<br \/>\r\n<br \/>\r\nDisney+ \u8207 Hulu \u5408\u4f75\u5f8c\uff0c\u65e5\u524d\u516c\u4f48\u7b2c\u4e8c\u8ca1\u653f\u5b63\u5ea6\u7684\u5408\u4f75\u5229\u6f64\uff0cDisney+ \u7b2c\u4e8c\u5b63\u8a02\u95b1\u6578\u91cf\u589e\u52a0\u903e 600 \u842c\uff0c\u5168\u7403\u9054 1.176\u5104\u4eba\u3002\u4e32\u6d41\u5e73\u53f0\u6536\u5165\u6309\u5e74\u589e\u9577 13% \u81f3 56.4 \u5104\u7f8e\u5143\u3002<br \/>\r\n<br \/>\r\n\u6d88\u606f\u4f86\u6e90\uff1a<a href=\"https:\/\/www.digitaltrends.com\/home-theater\/disney-plus-hulu-max-streaming-bundle\/\"  target=\"_blank\">Digitaltrends<\/a><br \/>\r\n&nbsp;","image":["https:\/\/img.eprice.com.tw\/img\/news\/39760\/fb.jpg"],"datePublished":"Thu, 09 May 2024 16:18:55 +0800"}
+</script>
+
+<!-- Google tag (gtag.js) -->
+<script defer src="https://www.googletagmanager.com/gtag/js?id=G-LYXTMBFQNE"></script>
+<script>
+ window.dataLayer = window.dataLayer || [];
+ function gtag(){dataLayer.push(arguments);}
+ gtag('js', new Date());
+ gtag('config', 'G-LYXTMBFQNE');
+
+ window.googletag = window.googletag || {cmd: []};
+ if ( typeof window.googletag.cmd == 'undefined' ) {
+   window.googletag.cmd = [];
+ }
+ (function ($) {
+   $.gv = ( typeof $.gv == 'undefined' )? {} : $.gv;
+   $.gv.viewer = '';
+   $.gv.verCtrl = ( typeof $.gv.verCtrl == 'undefined' )? {} : $.gv.verCtrl;
+   $.gv.isBot = '';
+ })(jQuery);
+</script>
+<script defer src="/js/blueimp-gallery.min.js"></script>
+<script defer src="/js/jquery-twentytwenty.min.js"></script>
+<script defer src="/js/jquery.ui.widget.js"></script>
+<script defer src="/js/jquery.iframe-transport.js"></script>
+<script defer src="/js/jquery.fileupload.js"></script>
+<script defer src="https://static.addtoany.com/menu/page.js"></script>
+<script defer src="/js/web/articles/detail.trigger.js?20231116"></script>
+<script defer src="/js/web/articles/comment-list.trigger.js?202302051336"></script>
+<!-- <script defer src="/js/web/articles/vote.trigger.js"></script> -->
+<script defer src="/js/web/articles/layout.vote.js?20231115"></script>
+<script>
+ (function ($) {
+   $.gv = ( typeof $.gv == 'undefined' )? {} : $.gv;
+   $.gv.lib = 'mobile';
+      $.gv.newsId = '39760';
+      $.gv.prodId = '4504';
+   $.gv.talkId = '5809415';
+   $.gv.isModerator = 0;
+      $.gv.isMashdigi = 0;
+      $.gv.hasEpriceAds = true;
+   $.gv.page = 'talk';
+   $.badgeAry = [{"action":"sp-article-selected","res":[]},{"action":"sp-article-selected-x2","res":[]},{"action":"sp-article-suggested","res":[]},{"action":"sp-article-event","res":[]},{"action":"sp-article-nice-reply","res":[]}];
+ })(jQuery);
+</script>
+
+<script>
+ var commentReplyModal = document.getElementById('commentReply'),
+     commentReplyForm = document.getElementById('frm_comment');
+ $('#commentReply').on('show.bs.modal', function (event) {
+   commentReplyForm.querySelector('.lib').setAttribute('value', $.gv.lib);
+   commentReplyForm.querySelector('.prod-id').setAttribute('value', $.gv.prodId);
+   if (event.relatedTarget.id === 'commentReplyL1') {
+     commentReplyModal.querySelector('h4.modal-title').innerText = '回覆本文';
+     commentReplyModal.querySelector('a.upload-photo').classList.remove('hidden');
+     commentReplyForm.querySelector('.par-id').setAttribute('value', $.gv.talkId);
+   } else {
+     commentReplyModal.querySelector('h4.modal-title').innerText = '回覆此樓';
+     let commentId = event.relatedTarget.dataset['value'],
+         commentDialogId = "#dialog-floor-menu-" + commentId; 
+     
+     $(commentDialogId).modal('hide');
+     commentReplyForm.querySelector('.par-id').setAttribute('value', commentId);
+   }
+ });
+ 
+ $('#commentReply').on('hide.bs.modal', function (event) {
+   commentReplyModal.querySelector('a.upload-photo').classList.add('hidden');
+ })
+ 
+ /* handle btn-upload upload-photo */
+</script>
+
+<script>
+ var commentReplyModal = document.getElementById('commentReply'),
+     commentReplyForm = document.getElementById('frm_comment');
+ $('#commentReply').on('show.bs.modal', function (event) {
+   commentReplyForm.querySelector('.lib').setAttribute('value', $.gv.lib);
+   commentReplyForm.querySelector('.prod-id').setAttribute('value', $.gv.prodId);
+   if (event.relatedTarget.id === 'commentReplyL1') {
+     commentReplyModal.querySelector('h4.modal-title').innerText = '回覆本文';
+     commentReplyModal.querySelector('a.upload-photo').classList.remove('hidden');
+     commentReplyForm.querySelector('.par-id').setAttribute('value', $.gv.talkId);
+   } else {
+     commentReplyModal.querySelector('h4.modal-title').innerText = '回覆此樓';
+     let commentId = event.relatedTarget.dataset['value'],
+         commentDialogId = "#dialog-floor-menu-" + commentId; 
+     
+     $(commentDialogId).modal('hide');
+     commentReplyForm.querySelector('.par-id').setAttribute('value', commentId);
+   }
+ });
+ 
+ $('#commentReply').on('hide.bs.modal', function (event) {
+   commentReplyModal.querySelector('a.upload-photo').classList.add('hidden');
+ })
+ 
+ /* handle btn-upload upload-photo */
+</script>
+</head>
+<body>
+  <div id="fb-root"></div>
+  <div class="ad-sticky-g hidden-xs"></div>
+  <a class="btn-back2top" href="#"><i class="fas fa-arrow-up"></i></a>
+  <header class="navbar-fixed-top">
+  <div class="container-fluid nav-container visible-xs">
+	<div class="container py-1">
+	  <button type="button" class="navbar-toggle mx-0 my-0 collapsed pull-left" data-toggle="collapse" data-target="#nav-main-xs">
+		<i class="fa fa-bars"></i>
+	  </button>
+
+	  <div class="site-logo pull-left">
+		<a class="logo img-wrapper" data-event-cate="桌機選單" data-event-label="網站LOGO" data-event="1" href="https://m.eprice.com.tw" data-image="https://img.eprice.com.tw/img/tw/header.ob.gif" data-lazyload="1"></a>
+	  </div>
+
+	  <div class="icon-button-wrapper pull-right">
+		<a title="搜尋網站" class="icon-button social-button btn-search" role="button" href="#">
+		  <i class="fas fa-search"></i>
+		  <span class="sr-only">搜尋網站</span>
+		</a>
+
+		
+		
+		<a title="產品比拼" class="icon-button compare-button" href="https://m.eprice.com.tw/mobile/compare/list">
+		  <i class="fas fa-mobile-alt"></i>
+		  <span class="sr-only">產品比拼</span>
+		</a>
+		<a title="會員" class="icon-button" href="https://m.eprice.com.tw/members/home">
+		  <i class="fas fa-user"></i>
+		  <span class="sr-only">會員</span>
+		  <span class="text-count" data-name="pmbox" data-type="count" data-value="0">0</span>
+		</a>
+		
+	  </div>
+
+	</div>
+     <div class="shortcuts">
+  <a class="shortcuts__item"
+     data-event-cate="手機選單"
+     data-event-label="新聞"
+     data-event="1"
+     href="https://m.eprice.com.tw/news/all/1">新聞</a>
+  <a class="shortcuts__item"
+     data-event-cate="手機選單"
+     data-event-label="評測"
+     data-event="1"
+     href="https://m.eprice.com.tw/reports/all/1">評測</a>
+  <a class="shortcuts__item"
+     data-event-cate="手機選單"
+     data-event-label="討論"
+     data-event="1"
+     href="https://m.eprice.com.tw/talk">討論</a>
+  <a class="shortcuts__item"
+     data-event-cate="手機選單"
+     data-event-label="產品"
+     data-event="1"
+     href="https://m.eprice.com.tw/products/latest/rank">產品</a>
+  <a class="shortcuts__item"
+     data-event-cate="手機選單"
+     data-event-label="買賣"
+     data-event="1"
+     href="https://m.eprice.com.tw/markets">買賣</a>
+  
+</div> 
+	<div id="nav-main-xs" class="nav-main-xs category-list collapse">
+      <div class="brand-wrapper"
+           style="font-size:larger;padding:1rem;
+                  display:flex;flex-flow:column nowrap;gap:2rem;">
+		<a class="text-category"
+           href="https://m.eprice.com.tw/mobile/talk/0/0/1"
+           style="color:#3c3c3c;font-weight:700;text-decoration:underline;">
+          手機品牌</a>
+    	<div style="padding-left:1rem;margin-bottom:.5rem;
+                    display:grid;
+                    grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
+                    grid-gap: .75rem 1.5rem;">
+          <a class="text-category"
+             href="/mobile/talk/4523/0/1"
+             style="color:#3c3c3c;">
+            Samsung</a>
+          <a class="text-category"
+             href="/mobile/talk/4544/0/1"
+             style="color:#3c3c3c;">
+            Apple</a>
+          <a class="text-category"
+             href="/mobile/talk/4551/0/1"
+             style="color:#3c3c3c;">
+            SONY</a>
+          <a class="text-category"
+             href="/mobile/talk/4902/0/1"
+             style="color:#3c3c3c;">
+            vivo</a>
+          <a class="text-category"
+             href="/mobile/talk/4693/0/1"
+             style="color:#3c3c3c;">
+            OPPO</a>
+          <a class="text-category"
+             href="/mobile/talk/4543/0/1"
+             style="color:#3c3c3c;">
+            ASUS</a>
+          <a class="text-category"
+             href="/mobile/talk/6113/0/1"
+             style="color:#3c3c3c;">
+            realme</a>
+          <a class="text-category"
+             href="/mobile/talk/4568/0/1"
+             style="color:#3c3c3c;">
+            小米</a>
+          <a class="text-category"
+             href="/mobile/talk/4541/0/1"
+             style="color:#3c3c3c;">
+            Google</a>
+          <a class="text-category"
+             href="/mobile/talk/6579/0/1"
+             style="color:#3c3c3c;">
+            POCO</a>
+          <a class="text-category"
+             href="/mobile/talk/4529/0/1"
+             style="color:#3c3c3c;">
+            Nokia</a>
+          <a class="text-category"
+             href="/mobile/talk/4537/0/1"
+             style="color:#3c3c3c;">
+            Moto</a>
+          <a class="text-category"
+             href="/mobile/talk/6735/0/1"
+             style="color:#3c3c3c;">
+            Nothing</a>
+          <a class="text-category"
+             href="/mobile/talk/102/0/1"
+             style="color:#3c3c3c;">
+            手機綜合</a>
+        </div>
+        <div style="display:flex;flex-flow:row wrap;gap:1rem;">
+          <a class="text-category"
+             href="https://m.eprice.com.tw/telecom/talk/0/0/1"
+             style="color:#3c3c3c;font-weight:700;text-decoration:underline;">
+            電信業者
+      	  </a>
+          <a class="text-category"
+             href="https://m.eprice.com.tw/smartos/talk/0/0/1"
+             style="color:#3c3c3c;font-weight:700;text-decoration:underline;">
+            手機軟體
+      	  </a>
+        </div>
+        <div style="display:flex;flex-flow:row wrap;gap:1rem;">
+          <a class="text-category"
+             href="https://m.eprice.com.tw/tech/talk/0/0/1"
+             style="color:#3c3c3c;font-weight:700;text-decoration:underline;">
+            3C科技
+      	  </a>
+          <a class="text-category"
+             href="https://m.eprice.com.tw/life/talk/0/0/1"
+             style="color:#3c3c3c;font-weight:700;text-decoration:underline;">
+            時尚生活
+      	  </a>
+          <a class="text-category"
+             href="https://m.eprice.com.tw/funky/talk/0/0/1"
+             style="color:#3c3c3c;font-weight:700;text-decoration:underline;">
+            休閒玩樂
+      	  </a>
+          <a class="text-category"
+             href="https://m.eprice.com.tw/pad/talk/0/0/1"
+             style="color:#3c3c3c;font-weight:700;text-decoration:underline;">
+            平板品牌
+      	  </a>
+        </div>
+        <a class="text-category"
+           href="https://m.eprice.com.tw/bulletin/talk/0/0/1"
+           style="color:#3c3c3c;font-weight:700;text-decoration:underline;">
+          公告專區
+      	</a>
+      </div>
+	</div>
+  </div>
+  
+  	
+  <div class="container-fluid nav-container hidden-xs">
+	<div class="container py-1">
+	  <div class="site-logo">
+		<a class="logo img-wrapper" data-event-cate="桌機選單" data-event-label="網站LOGO" data-event="1" href="https://m.eprice.com.tw" data-image="https://img.eprice.com.tw/img/tw/header.ob.gif" data-lazyload="1"></a>
+	  </div>
+	  <ul class="nav navbar-nav nav-main pull-left">
+  		<li class="item">
+		  <a data-event-cate="桌機選單" data-event-label="新聞" data-event="1" href="https://m.eprice.com.tw/news/all/1">
+			新聞
+		  </a>
+		</li>
+		<li class="item">
+		  <a data-event-cate="桌機選單" data-event-label="產品" data-event="1" href="https://m.eprice.com.tw/reports/all/1">
+			評測
+		  </a>
+		</li>
+		<li class="item">
+		  <a data-event-cate="桌機選單" data-event-label="討論" data-event="1" href="https://m.eprice.com.tw/talk">
+			討論
+		  </a>
+		</li>
+		<li class="item">
+		  <a data-event-cate="桌機選單" data-event-label="評測" data-event="1" href="https://m.eprice.com.tw/products/latest/rank">
+			產品
+		  </a>
+		</li>
+		<li class="item">
+		  <a data-event-cate="桌機選單" data-event-label="買賣" data-event="1" href="https://m.eprice.com.tw/markets">
+			買賣
+		  </a>
+		</li>
+	  </ul>
+	  <div class="pull-left visible-lg">
+		<form role="search" method="get" action="https://m.eprice.com.tw/search" class="search-form">
+		  <div class="input-group">
+			<input type="text" name="q" placeholder="我想搜尋..." value="" autocomplete="false" class="form-control" />
+			<span class="input-group-btn">
+			  <button type="submit" class="btn btn-default btn-md">
+				<i class="fas fa-search"></i>
+			  </button>
+			</span>
+		  </div>
+		</form>
+	  </div>
+	  <ul class="site-shortcut-menu pull-right">
+		<li class="visible-sm visible-md">
+		  <a title="搜尋網站" class="icon-button social-button btn-search" role="button" href="#">
+			<i class="fas fa-search"></i>
+			<span class="sr-only">搜尋網站</span>
+		  </a>
+		</li>
+		
+		
+		<li class="">
+		  <a title="產品比拼" class="icon-button" href="https://m.eprice.com.tw/mobile/compare/list">
+			<i class="fas fa-mobile-alt"></i>
+			<span class="text-count" data-name="compare" data-type="count" data-value="0">0</span>
+		  </a>
+		</li>
+
+		<li class="">
+		  <a title="私人訊息" class="icon-button" href="https://m.eprice.com.tw/members/pm/list">
+			<i class="fas fa-envelope"></i>
+			<span class="text-count" data-name="pmbox" data-type="count" data-value="0">0</span>
+		  </a>
+		</li>
+        <li class="">
+		  <a title="會員首頁" class="icon-button" href="https://m.eprice.com.tw/members/home">
+			<i class="fas fa-user"></i>
+			<span class="sr-only">會員</span>
+		  </a>
+		</li>
+        
+	  </ul>
+	  <div class="clearfix"></div>
+	</div>
+  </div>
+</header>
+<div class="container document-body layout-2-columns">
+  <div class="row main-section">
+	<div class="text-center my-1 pb-1">
+	   <div class="ad-970x250 visible-md visible-lg">
+  <div id="div-gpt-ad-1660034107153-0" 
+       data-slot="/1014181/TW-2022-970x250" 
+       data-width="970" 
+       data-height="250" 
+       data-visible="lg" 
+       style="min-width:970px;min-height: 250px;"></div>
+</div>
+<div class="ad-728x90 visible-sm">
+  <div class="row">
+    <div id="div-gpt-ad-1660034054447-0" 
+         data-slot="/1014181/TW-2022-728x90" 
+         data-width="728" 
+         data-height="90" 
+         data-visible="sm" 
+         style="min-width:728px;min-height:90px"></div>
+  </div>
+</div>
+<div class="ad-320x100 visible-xs">
+  <div id="div-gpt-ad-1660033908810-0" 
+       data-slot="/1014181/TW-2022-320x100" 
+       data-width="320" 
+       data-height="100" 
+       data-visible="xs" 
+       style="min-width:320px;min-height: 100px;"></div>
+</div>
+ 
+	</div>
+    <div class="clearfix"></div>
+    	<div class="main-section-left hidden-xs">
+	  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+		<div class="fixed-wrapper row">
+		  <section class="category-list">
+			
+			<div class="section-body">
+			  <a class="btn-fixed-tab fixed-left visible-sm" href="#">
+  <i class="fa fa-bars"></i>
+  <i class="fa fa-times"></i>
+</a>
+<div class="brand-wrapper">
+  <ul class="list-group brand-list pull-left">
+            <li class="list-group-item col-lg-6 col-md-6 col-sm-6 col-xs-4 text-left py-2">            
+      <a class="text-category"
+         href="https://m.eprice.com.tw/mobile/talk/0/0/1">
+        手機品牌
+      </a>
+      <div class="clearfix"></div>
+            <ul class="list-group children-list" data-level="1">
+        <li class="list-group-item py-1">
+          <a class="text-category"
+             href="/mobile/talk/4523/0/1">
+            Samsung</a></li>
+        <li class="list-group-item py-1">
+          <a class="text-category"
+             href="/mobile/talk/4544/0/1">
+            Apple</a></li>
+        <li class="list-group-item py-1">
+          <a class="text-category"
+             href="/mobile/talk/4551/0/1">
+            SONY</a></li>
+        <li class="list-group-item py-1">
+          <a class="text-category"
+             href="/mobile/talk/4902/0/1">
+            vivo</a></li>
+        <li class="list-group-item py-1">
+          <a class="text-category"
+             href="/mobile/talk/4693/0/1">
+            OPPO</a></li>
+        <li class="list-group-item py-1">
+          <a class="text-category"
+             href="/mobile/talk/4543/0/1">
+            ASUS</a></li>
+        <li class="list-group-item py-1">
+          <a class="text-category"
+             href="/mobile/talk/6113/0/1">
+            realme</a></li>
+        <li class="list-group-item py-1">
+          <a class="text-category"
+             href="/mobile/talk/4568/0/1">
+            小米</a></li>
+        <li class="list-group-item py-1">
+          <a class="text-category"
+             href="/mobile/talk/4541/0/1">
+            Google</a></li>
+        <li class="list-group-item py-1">
+          <a class="text-category"
+             href="/mobile/talk/6579/0/1">
+            POCO</a></li>
+        <li class="list-group-item py-1">
+          <a class="text-category"
+             href="/mobile/talk/4529/0/1">
+            Nokia</a></li>
+        <li class="list-group-item py-1">
+          <a class="text-category"
+             href="/mobile/talk/4537/0/1">
+            Moto</a></li>
+        <li class="list-group-item py-1">
+          <a class="text-category"
+             href="/mobile/talk/6735/0/1">
+            Nothing</a></li>
+        <li class="list-group-item py-1">
+          <a class="text-category"
+             href="/mobile/talk/102/0/1">
+            手機綜合</a></li>
+      </ul>
+          </li>
+        <li class="list-group-item col-lg-6 col-md-6 col-sm-6 col-xs-4 text-left py-2">            
+      <a class="text-category"
+         href="https://m.eprice.com.tw/telecom/talk/0/0/1">
+        電信業者
+      </a>
+      <div class="clearfix"></div>
+          </li>
+        <li class="list-group-item col-lg-6 col-md-6 col-sm-6 col-xs-4 text-left py-2">            
+      <a class="text-category"
+         href="https://m.eprice.com.tw/smartos/talk/0/0/1">
+        手機軟體
+      </a>
+      <div class="clearfix"></div>
+          </li>
+        <li class="list-group-item col-lg-6 col-md-6 col-sm-6 col-xs-4 text-left py-2">            
+      <a class="text-category"
+         href="https://m.eprice.com.tw/tech/talk/0/0/1">
+        3C科技
+      </a>
+      <div class="clearfix"></div>
+          </li>
+        <li class="list-group-item col-lg-6 col-md-6 col-sm-6 col-xs-4 text-left py-2">            
+      <a class="text-category"
+         href="https://m.eprice.com.tw/life/talk/0/0/1">
+        時尚生活
+      </a>
+      <div class="clearfix"></div>
+          </li>
+        <li class="list-group-item col-lg-6 col-md-6 col-sm-6 col-xs-4 text-left py-2">            
+      <a class="text-category"
+         href="https://m.eprice.com.tw/funky/talk/0/0/1">
+        休閒玩樂
+      </a>
+      <div class="clearfix"></div>
+          </li>
+        <li class="list-group-item col-lg-6 col-md-6 col-sm-6 col-xs-4 text-left py-2">            
+      <a class="text-category"
+         href="https://m.eprice.com.tw/pad/talk/0/0/1">
+        平板品牌
+      </a>
+      <div class="clearfix"></div>
+          </li>
+        <li class="list-group-item col-lg-6 col-md-6 col-sm-6 col-xs-4 text-left py-2">            
+      <a class="text-category"
+         href="https://m.eprice.com.tw/bulletin/talk/0/0/1">
+        公告專區
+      </a>
+      <div class="clearfix"></div>
+          </li>
+          </ul>
+  <div class="clearfix"></div>
+</div>
+			</div>
+		  </section>
+		</div>
+	  </div>
+	  <div class="fixed-check-filled">&nbsp;</div>
+	</div>
+	<div class="main-section-right col-xs-12">
+	  
+<div id="main-crazy-xs"></div>
+
+<a class="btn-floatReply" href="#comments-heading">評論<i class="fas fa-reply"></i></a>
+
+<section class="social-share-block py-2">
+  <!-- div class="sharethis-inline-share-buttons"></div -->
+  <!-- AddToAny BEGIN -->
+  <div class="a2a_kit a2a_kit_size_32 a2a_default_style" style="min-height:32px;">
+	<a class="a2a_button_whatsapp"></a>
+	<a class="a2a_button_facebook"></a>
+	<a class="a2a_button_facebook_messenger"></a>
+	<a class="a2a_button_twitter"></a>
+	<a class="a2a_button_email"></a>
+	<a class="a2a_button_mewe"></a>
+	<a class="a2a_button_copy_link"></a>
+  </div>		
+  <!-- AddToAny END -->
+</section>
+<section class="post-content pull-left">
+
+  <div class="section-heading text-left">
+	<h1>迪士尼與華納推出 Disney+、Hulu、Max 三合一方案</h1>
+	<div class="clearfix"></div>
+  </div>
+  <div class="clearfix"></div>
+  <div class="section-body bg-1">
+	    <div class="dropdown pull-right hidden">
+      <button type="button" class="btn btn-default btn-sm dropdown-toggle comment-reply-button" data-toggle="dropdown"
+                    aria-haspopup="true"
+                    aria-expanded="false"
+                    data-value="0">
+        <i class="fas fa-angle-down"></i>
+      </button>
+       <div id="dialog-floor-menu-0" class="modal fade dialog-box dialog-floor-menu">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-heading text-right">
+        <div class="px-2 py-2">
+          <a class="text-link-close mx-1 py-1" href="#">
+            <i class="fa fa-times"></i>
+          </a>
+        </div>
+      </div>
+      <div class="modal-body">
+        
+        <div class="col-lg-4 col-xs-6 py-2 text-center" data-level="1">
+          <a class="menu-button btn-comment" href="#"
+             data-toggle="modal" data-target="#commentReply"
+             data-value="talkId">
+            <i class="glyphicon glyphicon-share-alt"></i>
+            <div>回覆此樓</div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-xs-6 py-2 text-center" data-author="1">
+          <a class="menu-button btn-modify" href="#" data-href="https://timg.eprice.com.tw/tw/mobile/talk/edit.php" data-value="talkId">
+            <i class="glyphicon glyphicon-pencil"></i>
+            <div>編輯</div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-xs-6 py-2 text-center" data-moderator="1">
+          <a class="menu-button btn-modify" href="#" data-href="https://timg.eprice.com.tw/tw/mobile/talk/edit.php" data-value="talkId">
+            <i class="glyphicon glyphicon-pencil"></i>
+            <div>編輯</div>
+          </a>
+        </div>
+        <div class="clearfix"></div>
+        
+        <div class="col-lg-4 col-xs-6 py-2 text-center" data-moderator="1" data-status-visible="1">
+          <a class="menu-button btn-delete" href="#" data-value="talkId">
+            <i class="glyphicon glyphicon-trash"></i>
+            <div>刪除</div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-xs-6 py-2 text-center" data-moderator="1" data-status-visible="0">
+          <a class="menu-button btn-restore-delete" href="#" data-value="talkId">
+            <i class="glyphicon glyphicon-refresh"></i>
+            <div>恢復刪除回文</div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-xs-6 py-2 text-center" data-moderator="1">
+          <a class="menu-button btn-disable" href="#" data-value="talkId">
+            <i class="glyphicon glyphicon-ban-circle"></i>
+            <div>停權</div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-xs-6 py-2 text-center" data-moderator="1">
+          <a class="menu-button btn-bonus" href="#" data-value="talkId">
+            <i class="far fa-thumbs-up"></i>
+            <div>加分</div>
+          </a>
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </div>
+  </div>
+</div> 
+       <div id="dialog-disable-0" class="modal fade dialog-box dialog-disable" data-moderator="1">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-body">
+                <div class="form-group">
+                  <div class="input-group">
+                    <span class="input-group-addon">帳號</span>
+                    <div class="form-control text-left text-muted" data-name="txtLogin"></div>
+                  </div>
+                </div>
+                <div class="form-group">
+                  <div class="input-group">
+                    <div class="text-left text-danger">停權事由 (會經由E-mail寄給使用者，請注意用字)</div>
+                  </div>
+                </div>
+                <div class="form-group">
+                  <textarea name="reason" class="form-control with-min-height"></textarea>
+                </div>
+              </div>
+              <div class="modal-footer">
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 text-left py-1">
+                  <a class="text-link-close" href="#">關閉</a>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 text-right">
+                  <a class="btn btn-danger btn-md btn-submit" href="#" data-value="talkId">確定停權</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div> 
+       <div id="dialog-bonus-0" class="modal fade dialog-box dialog-bonus" data-moderator="1">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-body">
+        <div class="form-group">
+          <div class="input-group">
+            <span class="input-group-addon">帳號</span>
+            <div class="form-control text-left text-muted" data-name="txtLogin"></div>
+          </div>
+        </div>
+        <div class="form-group">
+          <div class="input-group">
+            <span class="input-group-addon">事由</span>                    
+            <select name="action" class="form-control">
+              <option value="0">請選擇</option>
+              <option value="sp-article-suggested">板主推薦</option>
+              <option value="sp-article-share-fb">FB分享文章</option>
+              <option value="sp-article-nice-reply">優質回文</option>
+              <option value="sp-article-selected">站方收錄</option>
+              <option value="sp-article-event">活動文章贈點</option>
+              <option value="sp-article-refill">刪除文章補償</option>
+              <option value="sp-article-selected-x2">活動文章兩倍送</option>
+            </select>
+          </div>
+        </div>
+        <div class="form-group">
+          <div class="input-group">
+            <span class="input-group-addon">給予</span>
+            <input type="text" name="pt" class="form-control" value="" placeholder="請輸入點數" />
+            <span class="input-group-addon">EP</span>
+          </div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 text-left py-1">
+          <a class="text-link-close" href="#">關閉</a>
+        </div>
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 text-right">
+          <a class="btn btn-danger btn-md btn-submit" href="#" data-value="talkId">確定贈點</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+ 
+    </div>    
+    
+    <div class="author-block">
+	  <div class="pull-left px-2">
+		<div class="profile-avatar">
+          		  <img src="https://timg.eprice.com.tw/member/large/bb26e8fe2f9c7a694502fdd7be71f25d.jpg" />
+                                  		</div>
+	  </div>
+      <div class="pull-left">
+        <span class="author-title text-left" data-name="author" data-account="iwill5210">Billy</span>
+        <span class="post-date">2024-05-09 16:18</span>
+        <span class="delimiter">|</span>
+        <a class="forum-title" href="/mobile/talk/4504/0/1">手機軟體綜合區 </a>
+          </div>
+      <div class="clearfix"></div>
+    </div>
+	<div class="text-center" style="margin:1rem -15px 0">		
+      <div class="ad-728x90 hidden-xs">
+		<div id="div-gpt-ad-1660034054447-10" data-slot="/1014181/TW-2022-728x90" data-width="728" data-height="90" data-visible="lg" style="min-width:728px;min-height:90px"></div>
+	  </div>
+	  <div class="ad-300x250 visible-xs">
+		<div id="div-gpt-ad-talk-inner-top" data-slot="/1014181/TW-M-TALK-INNER-TOP-300x250" data-width="300" data-height="250" data-visible="xs" style="min-width:300px;min-height: 250px;"></div>
+	  </div>
+    </div>
+	<div nosnippet class="section-content text-left" itemprop="articleBody">
+      早前影視串流平台 Disney+ 與 Hulu 合併，日前公佈合併後的第二財季利潤，創下歷史性紀錄。今日迪士尼與華納兄弟聯合宣佈，Disney+、Hulu、Max（前身 HBO Max）將進行合作，並於今年夏季提供整合方案。<br />
+<br />
+<img alt="20240508-logos-split.jpg" border="0" src="https://timgm.eprice.com.tw/tw/mobile/img/2024-05/09/5809415/eprice_1_20b98e3af996c9caffba941ed557d85a.jpg" title="20240508-logos-split.jpg" /><br />
+<br />
+&nbsp;
+<h2>三合一方案吸引力大增</h2>
+在目前串流平台服務眾多，收費愈來愈貴，迪士尼與華納聯給推出的這個三合一方案，讓消費者有多一個選擇，如果用戶本身已閱訂多個影視串流平台服務，或許可以省一點錢，如果只選擇一個平台來訂閱的話，這種三合一方案有可能比 Netflix 來得吸引。<br />
+<br />
+華納兄弟全球串流與遊戲業務行政總裁 JB Perrette 在新聞稿中表示：新產品將為消費者提供最豐富的娛樂內容，和串流平台中最大吸引力，並認為可以增加訂閱數量和留著用戶群。他更指出，新服務會行業的未來指出新路向。迪士尼娛樂直接面向消費者與娛樂業務總裁 Joe Earley 則表示，繼 Disney+ 合併 Hulu 大獲成功，這一波 Max 的新組合將為訂閱者提供更多選擇，訂閱用戶可以一次擁有三大豐富片源。<br />
+<br />
+&nbsp;
+<h2>可選擇有廣告和無廣告版本</h2>
+據悉新方案於今年夏天在美國推出，用戶可以在三個串流平台的任何一個網站上購買，可選擇有廣告和無廣告版本。有關三合一方案的收費等細節，則有待公佈。&nbsp;<br />
+<br />
+Disney+ 與 Hulu 合併後，日前公佈第二財政季度的合併利潤，Disney+ 第二季訂閱數量增加逾 600 萬，全球達 1.176億人。串流平台收入按年增長 13% 至 56.4 億美元。<br />
+<br />
+消息來源：<a href="https://www.digitaltrends.com/home-theater/disney-plus-hulu-max-streaming-bundle/"  target="_blank">Digitaltrends</a><br />
+&nbsp;
+            <div class="sponsor sponsor--xs sponsor--inarticle">
+        <div class="sponsor__header">廣告</div>
+        <div id="m300-370"></div>
+        <div class="sponsor__footer">捲動繼續閱讀</div>
+      </div>
+      	</div>
+	<div class="clearfix"></div>
+            <div style="margin-top:5rem;">
+      <hr style="border-color:#aaa;" />
+      <ul>
+                <li><a style="font-weight:800;font-size:13pt;"
+               href="https://www.eprice.com.tw/ad/redir.php?id=11962"
+               target="_blank"
+               title="Samsung A55 A35 夜拍升級！">Samsung A55 A35 夜拍升級！</a></li>
+              </ul>
+      <hr style="border-color:#aaa;" />
+    </div>
+    <div class="clearfix"></div>
+          </div>
+</section>
+<div class="clearfix"></div>
+<div class="clearfix"></div>
+<div id="m-prlx-320-480" class="sponsor sponsor--xs"></div>
+
+ <section class="comments my-2">
+  <div id="comments-heading" class="section-heading pt-1">
+    <h2>
+      <span class="text">網友評論</span>
+      <span class="count px-1">0</span>
+      <a class="btn btn-primary btn-reply pull-right mt-1" href="#">回覆本文</a>
+      <div class="clearfix"></div>
+    </h2>
+  </div>  
+  <div class="section-body">
+    <template id="comment-template">
+       <li id="0" class="list-group-item media py-2 my-0" data-value="0" data-status="1">
+  <div class="media-left pr-2">
+    <div class="author-block">
+        <div class="profile-avatar">
+          <img class="comment-profile-image" data-name="authorImageUrl" src="authorImageUrl" />
+        </div>
+    </div>
+  </div>
+  <div class="media-body">
+    <div class="media-heading">
+      <div class="dropdown pull-right">
+        <span class="comment-floor px-1" data-name="position"></span>
+        <button type="button" class="btn btn-default btn-sm dropdown-toggle comment-reply-button" data-toggle="dropdown"
+                  aria-haspopup="true"
+                  aria-expanded="false"
+                  data-value="0">
+          <i class="fas fa-angle-down"></i>
+        </button>
+
+         <div id="dialog-floor-menu-0" class="modal fade dialog-box dialog-floor-menu">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-heading text-right">
+        <div class="px-2 py-2">
+          <a class="text-link-close mx-1 py-1" href="#">
+            <i class="fa fa-times"></i>
+          </a>
+        </div>
+      </div>
+      <div class="modal-body">
+        
+        <div class="col-lg-4 col-xs-6 py-2 text-center" data-level="1">
+          <a class="menu-button btn-comment" href="#"
+             data-toggle="modal" data-target="#commentReply"
+             data-value="talkId">
+            <i class="glyphicon glyphicon-share-alt"></i>
+            <div>回覆此樓</div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-xs-6 py-2 text-center" data-author="1">
+          <a class="menu-button btn-modify" href="#" data-href="https://timg.eprice.com.tw/tw/mobile/talk/edit.php" data-value="talkId">
+            <i class="glyphicon glyphicon-pencil"></i>
+            <div>編輯</div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-xs-6 py-2 text-center" data-moderator="1">
+          <a class="menu-button btn-modify" href="#" data-href="https://timg.eprice.com.tw/tw/mobile/talk/edit.php" data-value="talkId">
+            <i class="glyphicon glyphicon-pencil"></i>
+            <div>編輯</div>
+          </a>
+        </div>
+        <div class="clearfix"></div>
+        
+        <div class="col-lg-4 col-xs-6 py-2 text-center" data-moderator="1" data-status-visible="1">
+          <a class="menu-button btn-delete" href="#" data-value="talkId">
+            <i class="glyphicon glyphicon-trash"></i>
+            <div>刪除</div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-xs-6 py-2 text-center" data-moderator="1" data-status-visible="0">
+          <a class="menu-button btn-restore-delete" href="#" data-value="talkId">
+            <i class="glyphicon glyphicon-refresh"></i>
+            <div>恢復刪除回文</div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-xs-6 py-2 text-center" data-moderator="1">
+          <a class="menu-button btn-disable" href="#" data-value="talkId">
+            <i class="glyphicon glyphicon-ban-circle"></i>
+            <div>停權</div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-xs-6 py-2 text-center" data-moderator="1">
+          <a class="menu-button btn-bonus" href="#" data-value="talkId">
+            <i class="far fa-thumbs-up"></i>
+            <div>加分</div>
+          </a>
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </div>
+  </div>
+</div> 
+
+         <div id="dialog-disable-0" class="modal fade dialog-box dialog-disable" data-moderator="1">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-body">
+                <div class="form-group">
+                  <div class="input-group">
+                    <span class="input-group-addon">帳號</span>
+                    <div class="form-control text-left text-muted" data-name="txtLogin"></div>
+                  </div>
+                </div>
+                <div class="form-group">
+                  <div class="input-group">
+                    <div class="text-left text-danger">停權事由 (會經由E-mail寄給使用者，請注意用字)</div>
+                  </div>
+                </div>
+                <div class="form-group">
+                  <textarea name="reason" class="form-control with-min-height"></textarea>
+                </div>
+              </div>
+              <div class="modal-footer">
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 text-left py-1">
+                  <a class="text-link-close" href="#">關閉</a>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 text-right">
+                  <a class="btn btn-danger btn-md btn-submit" href="#" data-value="talkId">確定停權</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div> 
+
+         <div id="dialog-bonus-0" class="modal fade dialog-box dialog-bonus" data-moderator="1">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-body">
+        <div class="form-group">
+          <div class="input-group">
+            <span class="input-group-addon">帳號</span>
+            <div class="form-control text-left text-muted" data-name="txtLogin"></div>
+          </div>
+        </div>
+        <div class="form-group">
+          <div class="input-group">
+            <span class="input-group-addon">事由</span>                    
+            <select name="action" class="form-control">
+              <option value="0">請選擇</option>
+              <option value="sp-article-suggested">板主推薦</option>
+              <option value="sp-article-share-fb">FB分享文章</option>
+              <option value="sp-article-nice-reply">優質回文</option>
+              <option value="sp-article-selected">站方收錄</option>
+              <option value="sp-article-event">活動文章贈點</option>
+              <option value="sp-article-refill">刪除文章補償</option>
+              <option value="sp-article-selected-x2">活動文章兩倍送</option>
+            </select>
+          </div>
+        </div>
+        <div class="form-group">
+          <div class="input-group">
+            <span class="input-group-addon">給予</span>
+            <input type="text" name="pt" class="form-control" value="" placeholder="請輸入點數" />
+            <span class="input-group-addon">EP</span>
+          </div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 text-left py-1">
+          <a class="text-link-close" href="#">關閉</a>
+        </div>
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 text-right">
+          <a class="btn btn-danger btn-md btn-submit" href="#" data-value="talkId">確定贈點</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+ 
+      </div>
+      <span class="lead comment-profile-name" data-name="txtAuthor"></span>
+      <div class="clearfix"></div>
+      <span class="author-account comment-profile-loginname" data-name="txtLogin"></span>      
+      
+      <div class="clearfix">
+        <em class="comment-timestamp" data-name="txtDate"></em>
+      </div>
+
+      </div>
+      <div class="comment-content py-1"></div>
+
+       <div id="dialog-comment-0" class="modal fade dialog-box dialog-comment-lv2" data-level="1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-heading text-left px-2">
+                <a class="text-link-close mx-1 my-2 pull-right" href="#">
+                    <i class="fa fa-times"></i>
+                </a>
+                <div class="py-2">
+                    回覆 <span data-name="txtAuthor"></span>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+            <div class="modal-body">
+                <div class="form-group">
+                    <textarea name="content" class="form-control" rows="5" placeholder="嚴禁回覆文不對題、蓄意攻訐、挑起戰火、惡意洗版或灌水、廣告文等的內容，本站將直接刪除回文與扣除贈送之 EP 點數以示警告，如屢犯將予以停權。"></textarea>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 text-left py-1">
+                    <a class="text-link-close" href="#">關閉</a>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 text-right">
+                    <a class="btn btn-danger btn-md btn-submit" href="#" data-value="talkId">送出留言</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+ 
+    </div>
+  </div>
+</li>
+ 
+    </template>
+    <ul id="comments-list" class="media-list" data-value="5809415">
+        
+      
+    </ul>
+     <div id="dialog-comment-0" class="modal fade dialog-box dialog-comment-lv1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-heading text-left px-2">
+                <a class="text-link-close mx-1 my-2 pull-right" href="#">
+                    <i class="fa fa-times"></i>
+                </a>
+                <div class="py-2">回覆留言</div>
+                <div class="clearfix"></div>
+            </div>
+            <div class="modal-body">
+                <div class="form-group">
+                    <textarea name="content" class="form-control" rows="5" placeholder="嚴禁回覆文不對題、蓄意攻訐、挑起戰火、惡意洗版或灌水、廣告文等的內容，本站將直接刪除回文與扣除贈送之 EP 點數以示警告，如屢犯將予以停權。"></textarea>
+                </div>
+                <div class="form-group">
+                    <div class="checkbox-inline pull-right">
+                        <input type="checkbox" name="notify" value="1" />
+                        <label class="mb-0">通知發文者有新的回覆訊息</label>
+                    </div>
+                    <a class="btn-upload pull-left" data-id="fu-photos" href="#">
+                        <i class="fa fa-camera"></i>
+                    </a>
+                    <div class="clearfix"></div>
+                </div>
+                <div class="image-preview-block hidden">
+                    <div class="clearfix"></div>
+                </div>
+                <div class="hidden">
+                    <form id="fu-photos" data-id="photos" method="POST" enctype="multipart/form-data" class="fileupload"><input type="file" name="photos[]"></form>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 text-left py-1">
+                    <a class="text-link-close" href="#">關閉</a>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 text-right">
+                    <a class="btn btn-primary btn-md btn-submit" href="#">送出留言</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+ 
+    <div class="text-center hidden">
+      <strong>End of Comments</strong>
+    </div>
+  </div>
+  <div id="comments-loader" class="img-wrapper" data-page="0" data-done="0" data-loading="0"></div>
+</section>
+
+ 
+<div class="clearfix"></div>
+<div class="text-center" style="margin: 1rem 0 0 -15px;">
+  <div class="ad-300x250 visible-xs">
+	<div id="div-gpt-ad-1679631663593-0" data-slot="/1014181/TW-2023-End-Of-Comment" data-width="336" data-height="280" data-visible="xs" style="min-width:336px;min-height:28px;"></div>
+  </div>
+</div>
+<div class="clearfix"></div>
+<template id="article-block-template"> <li class="list-group-item">
+  <div class="row article-block py-3">
+    <div class="pull-left px-2">
+      <div class="profile-avatar">
+        <img src="">
+      </div>
+    </div>
+    <div class="pull-left">
+      <span class="author-title"></span>
+      <span class="post-date"></span>
+      <span class="delimiter">|</span>
+      <a class="forum-title"
+         href=""
+         title="">
+        
+      </a>
+    </div>
+    <div class="col-xs-12 col-sm-12 py-2">
+      <a class="img-wrapper"
+         href=""
+         data-image=""
+         data-lazyload="1"></a>
+      <a class="title my-2"
+         href="">
+        
+      </a>
+      <div class="summary"></div>
+    </div>
+  </div>
+</li>
+ </template>
+<section class="latest-news">
+  <div class="section-heading">
+	<h2>最新新聞</h2>
+  </div>
+  <div class="clearfix"></div>
+  <div class="section-body">
+	<ul class="list-group article-list news-list text-left" data-layout="feed" data-row="3"></ul>
+	<div class="clearfix"></div>
+  </div>
+  <div class="infinite-wrapper">
+	<div class="auto-loading img-wrapper" data-page="1"></div>
+  </div>
+</section>			
+<div id="m-talk-70-75" class="btn-event"></div>
+<script>
+ document.addEventListener("DOMContentLoaded", () => {
+   const images = Array.from(document.querySelectorAll("img[data-lazy='1']"));
+   if("IntersectionObserver" in window) {
+     const imageObserver = new IntersectionObserver((entries, observer) => {
+       entries.forEach(entry => {
+         if(entry.isIntersecting) {
+           const image = entry.target;
+           image.src = image.dataset.src;
+           imageObserver.unobserve(image);
+         }
+       });
+     });
+     images.forEach(img => imageObserver.observe(img));
+   } else {
+     images.forEach(img => {
+       img.src = img.dataset.src;
+     });
+   }
+ });
+</script>
+	</div>
+  </div>
+</div>
+<footer>
+    <div id="m-320-50-f" class="footer-adv hidden"></div>
+    <div class="container">
+   	<div class="site-page text-center">
+	  <a class="site-page-link" href="//www.eprice.com.tw/">台灣站</a>
+	  <a class="site-page-link" href="//www.eprice.com.hk/">香港站</a>
+	  <a class="site-page-link" href="https://m.eprice.com.tw/service">意見查詢</a>
+	  <a class="site-page-link" href="https://m.eprice.com.tw/advertise">廣告刊登</a>
+	  <a class="site-page-link" href="https://m.eprice.com.tw/privacy">私隱權保護政策</a>
+	  <a class="site-page-link" href="https://m.eprice.com.tw/disclaimer">免責聲明</a>
+	  <a class="site-page-link" href="https://m.eprice.com.tw/members/home">會員首頁</a>
+   	</div>
+    <div class="copyright text-center">
+	  © ePrice 行動版 版權所有
+	</div>
+  </div>
+</footer>
+<script>	
+window.fbAsyncInit = function() {
+	FB.init({
+		appId      : '1205386399519232',
+		xfbml      : true,
+		version    : 'v3.2',
+		status	   : true
+	});
+	FB.AppEvents.logPageView();
+	
+ 	FB.Event.subscribe('auth.login', function(resp) {
+        window.location = location.href;
+    });	
+};
+</script>
+</body>
+</html>
